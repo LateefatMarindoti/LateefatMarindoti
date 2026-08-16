@@ -93,6 +93,6 @@ I designed a retail schema, built the ETL process to load it, then went back and
 
 ## Currently
 
-Finishing my postgraduate certificate at Humber and looking for entry-level data analyst and BI analyst roles in Toronto. Open to contract work.
+Finishing my postgraduate certificate at Humber and looking for data analyst and BI analyst roles in Toronto. Open to contract work.
 
 If you want to talk about any of these, email is the fastest way to reach me.
