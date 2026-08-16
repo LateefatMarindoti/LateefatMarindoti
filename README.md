@@ -27,7 +27,7 @@ I work in SQL, Excel, Power BI and Python, and I like the part of the job where 
 ## Projects
 
 ### 1. EV Charging Infrastructure Gap Analysis
-*Capstone project with 6ix Analytics · Python, pandas, Jupyter*
+*Python, pandas, Jupyter*
 
 Ontario is adding electric vehicles faster than it is adding places to charge them. This project asked where that gap is widest.
 
