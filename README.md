@@ -6,7 +6,7 @@ Analytics graduate with four years of marketing, brand and retail experience acr
 
 I work in SQL, Excel, Power BI and Python, and I like the part of the job where a messy export turns into something a team can actually make a decision with.
 
-📧 Marindotiteniola@gmail.com · 📍 Toronto, ON · [LinkedIn](https://www.linkedin.com/in/lateefatmarindoti) · [Dashboard Portfolio](datascienceportfol.io/lateefatmarindoti).
+📧 Marindotiteniola@gmail.com · 📍 Toronto, ON · [LinkedIn](https://www.linkedin.com/in/lateefatmarindoti) · [Dashboard Portfolio](https://www.datascienceportfol.io/lateefatmarindoti).
 
 ---
 
