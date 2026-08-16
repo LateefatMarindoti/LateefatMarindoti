@@ -17,9 +17,6 @@ Ontario is adding electric vehicles faster than it is adding places to charge th
 
 Python, pandas, scikit-learn, Matplotlib, Jupyter
 
-## My contribution
-
-Data profiling and cleaning, feature engineering for the gap score, written analysis sections, and executive presentation delivery.
 
 ## Files
 
